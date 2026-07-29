@@ -1,5 +1,9 @@
 # Push ECR Action
 
+> [!WARNING]
+> **This repository is deprecated and will be archived on 2026-11-02.**
+> No further updates or support will be provided after this date. Please plan accordingly.
+
 ![GitHub](https://img.shields.io/github/license/hands-lab/push-ecr-action)
 
 Push Docker or OCI image to AWS ECR

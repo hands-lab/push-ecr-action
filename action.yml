@@ -1,5 +1,5 @@
 name: 'Push AWS ECR'
-description: 'Push Docker image to AWS ECR'
+description: '[Deprecated] Push Docker image to AWS ECR'
 author: 'hands-lab'
 inputs:
   image:
